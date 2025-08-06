@@ -1,0 +1,13 @@
+{
+  "name": "ptit_cnttt1_it104_session03_bai01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bai01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
