@@ -1,11 +1,11 @@
 import './App.css'
-import ColorBox from './components/ColorBox'
+import Slogan from './components/Slogan'
 
 function App() {
 
   return (
     <>
-      <ColorBox/>
+      <Slogan/>
     </>
   )
 }

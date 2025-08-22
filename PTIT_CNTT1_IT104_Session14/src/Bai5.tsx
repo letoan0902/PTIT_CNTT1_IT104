@@ -1,11 +1,11 @@
 import './App.css'
-import Notification from './components/Notification'
+import FormatName from './components/FormatName'
 
 function App() {
 
   return (
     <>
-    <Notification/>
+      <FormatName/>
     </>
   )
 }

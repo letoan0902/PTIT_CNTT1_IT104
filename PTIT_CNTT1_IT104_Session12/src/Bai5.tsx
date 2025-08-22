@@ -1,11 +1,11 @@
 import './App.css'
-import FormatName from './components/FormatName'
+import ProductForm from './components/ProductForm'
 
 function App() {
 
   return (
     <>
-      <FormatName/>
+      <ProductForm/>
     </>
   )
 }

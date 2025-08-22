@@ -1,11 +1,11 @@
 import './App.css'
-import Notification from './components/Notification'
+import Calculation from './components/Calculation'
 
 function App() {
 
   return (
     <>
-    <Notification/>
+      <Calculation/>
     </>
   )
 }

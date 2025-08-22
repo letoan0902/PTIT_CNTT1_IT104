@@ -1,11 +1,11 @@
 import './App.css'
-import ListCourse from './components/ListCourse'
+import Exercise01 from './components/Exercise01'
 
 function App() {
 
   return (
     <>
-      <ListCourse/>
+      <Exercise01/>
     </>
   )
 }

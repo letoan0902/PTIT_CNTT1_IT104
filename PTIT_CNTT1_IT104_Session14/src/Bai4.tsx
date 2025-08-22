@@ -1,11 +1,11 @@
 import './App.css'
-import Notification from './components/Notification'
+import ColorBox from './components/ColorBox'
 
 function App() {
 
   return (
     <>
-    <Notification/>
+      <ColorBox/>
     </>
   )
 }
