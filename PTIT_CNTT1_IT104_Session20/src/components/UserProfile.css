@@ -1,0 +1,43 @@
+.profile-container {
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .profile-container h2 {
+    margin-bottom: 10px;
+  }
+  
+  .profile-container form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .profile-container input {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+  }
+  
+  .profile-container button {
+    padding: 8px;
+    background: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+  }
+  
+  .profile-container button:hover {
+    background: #45a049;
+  }
+  
+  .result-box {
+    margin-top: 15px;
+    padding: 10px;
+    border-radius: 6px;
+    border: 1px solid #c8e6c9;
+  }
