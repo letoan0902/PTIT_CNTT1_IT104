@@ -1,0 +1,13 @@
+{
+  "students": [
+    {
+      "student_name": "Nguyễn Văn B",
+      "email": "nguyenb@gmail.com",
+      "address": "123 Nguyen Van Troi, Q9, TP.HCM",
+      "phone": "0932768902",
+      "status": false,
+      "create_at": "02/09/2025",
+      "id": 2
+    }
+  ]
+}

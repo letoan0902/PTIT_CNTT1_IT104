@@ -1,0 +1,24 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start1":"json-server --watch --port 3000 db1.json",
+    "start2":"json-server --watch --port 3001 db1.json",
+    "start3":"json-server --watch --port 3002 db3.json",
+    "start4":"json-server --watch --port 3003 db4.json",
+    "start5":"json-server --watch --port 3004 db5.json",
+    "start6":"json-server --watch --port 3005 db6.json",
+    "start7":"json-server --watch --port 3006 db7.json",
+    "start8":"json-server --watch --port 3007 db8.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}

@@ -1,0 +1,12 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "product_name": "Máy Tính",
+            "image": "https://hinhanh1.png",
+            "price":1200000,
+            "quantity":20,
+            "create_at":"12/02/2025"
+        }
+    ]
+}
