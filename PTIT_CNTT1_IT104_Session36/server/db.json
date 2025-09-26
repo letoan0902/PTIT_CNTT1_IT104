@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "taskName": "Học Redux Toolkit",
+      "completed": false,
+      "priority": "high"
+    },
+    {
+      "id": "2",
+      "taskName": "làm bài tập TS",
+      "completed": true,
+      "priority": "medium"
+    },
+    {
+      "id": "3",
+      "taskName": "Học và ôn tập",
+      "completed": false,
+      "priority": "medium"
+    },
+    {
+      "id": "4",
+      "taskName": "Giải trí và học tập",
+      "completed": false,
+      "priority": "low"
+    },
+    {
+      "id": "fc51",
+      "taskName": "1234",
+      "completed": false,
+      "priority": "low"
+    }
+  ]
+}

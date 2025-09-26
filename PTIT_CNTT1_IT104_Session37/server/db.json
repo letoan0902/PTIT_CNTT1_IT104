@@ -1,0 +1,64 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Lê Văn Cường",
+      "age": 15,
+      "grade": "10A2"
+    },
+    {
+      "id": "2",
+      "name": "Nguyễn Văn An",
+      "age": 16,
+      "grade": "10A1"
+    },
+    {
+      "id": "3",
+      "name": "Trần Thị Bình",
+      "age": 17,
+      "grade": "11B1"
+    },
+    {
+      "id": "4",
+      "name": "Phạm Minh Tuấn",
+      "age": 15,
+      "grade": "10A2"
+    },
+    {
+      "id": "5",
+      "name": "Ngô Thị Lan",
+      "age": 16,
+      "grade": "10A1"
+    },
+    {
+      "id": "6",
+      "name": "Bùi Văn Hùng",
+      "age": 17,
+      "grade": "11B1"
+    },
+    {
+      "id": "7",
+      "name": "Đỗ Thị Mai",
+      "age": 15,
+      "grade": "10A2"
+    },
+    {
+      "id": "8",
+      "name": "Lý Văn Sơn",
+      "age": 16,
+      "grade": "10A1"
+    },
+    {
+      "id": "9",
+      "name": "Vũ Thị Hạnh",
+      "age": 17,
+      "grade": "11B1"
+    },
+    {
+      "id": "10",
+      "name": "Nguyễn Văn Dũng",
+      "age": 15,
+      "grade": "10A2"
+    }
+  ]
+}

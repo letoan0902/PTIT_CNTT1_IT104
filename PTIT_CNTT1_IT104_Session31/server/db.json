@@ -1,0 +1,53 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "State trong ReactJS",
+      "content": "Giới thiệu về state trong ReactJS",
+      "image": "https://statics.cdn.200lab.io/2024/10/state-management-trong-react.jpg",
+      "create_at": "16/9/2025",
+      "isActive": true
+    },
+    {
+      "id": "2",
+      "title": "Tổng quan về ReactJS",
+      "content": "Tổng quan về framework ReactJS",
+      "image": "https://mona.media/wp-content/uploads/2021/06/reactjs.png",
+      "create_at": "16/9/2025",
+      "isActive": true
+    },
+    {
+      "id": "3",
+      "title": "Props trong ReactJS",
+      "content": "Hướng dẫn sử dụng props để truyền dữ liệu giữa các component.",
+      "image": "https://d3hi6wehcrq5by.cloudfront.net/itnavi-blog/2021/01/Props-l%C3%A0-g%C3%AC-1.jpg",
+      "create_at": "17/9/2025",
+      "isActive": false
+    },
+    {
+      "id": "4",
+      "title": "Component Lifecycle",
+      "content": "Tìm hiểu về vòng đời của component trong ReactJS.",
+      "image": "https://anhcoder.com/userfiles/files/image-20201209192427-1.png",
+      "create_at": "18/9/2025",
+      "isActive": true
+    },
+    {
+      "id": "5",
+      "title": "React Hooks",
+      "content": "Giới thiệu về các hook phổ biến như useState, useEffect.",
+      "image": "https://blog.logrocket.com/wp-content/uploads/2020/12/react-hooks.png",
+      "create_at": "19/9/2025",
+      "isActive": false
+    },
+    {
+      "title": "123",
+      "imageUrl": "",
+      "content": "## Chào mừng!\n\nBạn có thể **soạn thảo** ở khung bên trái và xem **xem trước** ở bên phải.",
+      "create_at": "16/9/2025",
+      "isActive": true,
+      "id": "UUNX3uW",
+      "image": ""
+    }
+  ]
+}

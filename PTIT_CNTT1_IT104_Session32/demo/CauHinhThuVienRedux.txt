@@ -1,0 +1,5 @@
+- Cài đặt thư viện redux: npm i redux react-redux.
+- Tạo folder:
+    + Views: các pages
+    + store: lưu state và logic thay đổi state
+- Main.tsx = Bọc App vào trong Provider

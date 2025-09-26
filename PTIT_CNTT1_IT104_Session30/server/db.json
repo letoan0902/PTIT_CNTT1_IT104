@@ -1,0 +1,59 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "name": "Quét nhà",
+      "completed": false
+    },
+    {
+      "id": "2",
+      "name": "Giặt quần áo",
+      "completed": false
+    },
+    {
+      "id": "3",
+      "name": "Nấu cơm",
+      "completed": true
+    },
+    {
+      "id": "4",
+      "name": "Rửa bát",
+      "completed": true
+    },
+    {
+      "id": "5",
+      "name": "Học bài",
+      "completed": false
+    },
+    {
+      "id": "6",
+      "name": "Tập thể dục",
+      "completed": false
+    },
+    {
+      "id": "7",
+      "name": "Đi chợ",
+      "completed": false
+    },
+    {
+      "id": "8",
+      "name": "Lau nhà",
+      "completed": false
+    },
+    {
+      "id": "9",
+      "name": "Tưới cây",
+      "completed": false
+    },
+    {
+      "id": "10",
+      "name": "Đổ rác",
+      "completed": true
+    },
+    {
+      "id": "1757952346048",
+      "name": "Demo",
+      "completed": true
+    }
+  ]
+}
